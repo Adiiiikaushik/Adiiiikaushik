@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Kaushik</h1>
-<h3 align="center">Full Stack Developer and Data Science Enthusiast</h3>
+<h3 align="center">Full Stack Developer and Web3 Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiiiikaushik&label=Profile%20views&color=0e75b6&style=flat" alt="adiiiikaushik" /> </p>
 
 - 🔭 I’m currently working on **improving my Backend Skills**
 
-- 🌱 I’m currently learning **React and Rust**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
